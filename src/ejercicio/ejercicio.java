@@ -1,8 +1,13 @@
 package ejercicio;
 import java.util.*;
 public class ejercicio {
+//HEAD
 
 //comentario local 
+
+// comentario en remoto
+
+//6a86a05206ded581864cf45afbd36d0f0a5d5710
 	public class ConversorTemperatura {
 
 	    public static double celsiusAFahrenheit(double c) {
