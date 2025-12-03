@@ -2,7 +2,7 @@ package ejercicio;
 import java.util.*;
 public class ejercicio {
 
-
+//comentario local 
 	public class ConversorTemperatura {
 
 	    public static double celsiusAFahrenheit(double c) {
